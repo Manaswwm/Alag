@@ -17,3 +17,6 @@ The tool's centre point is **key.R**. This script is the import point for librar
 
 The input points for the species-specific files are documented in **key.R**. These can be replaced with input files for other species. Example input files are listed in the folder __input_files__ . The resulting output files are listed in __example_outputs__ folder. Scripts used for performing analyses are listed in __analysis__ folder
 
+## Questions?
+
+If you have any questions, then you can reach me here - manaswwm@gmail.com :sunglasses:
